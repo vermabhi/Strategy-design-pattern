@@ -1,6 +1,6 @@
-package org.cid;
+package org.designPatterns.strategyDP;
 
-import org.cid.strategy.DriveStrategy;
+import org.designPatterns.strategyDP.strategy.DriveStrategy;
 
 public abstract class Vehicle {
     DriveStrategy driveStrategy;

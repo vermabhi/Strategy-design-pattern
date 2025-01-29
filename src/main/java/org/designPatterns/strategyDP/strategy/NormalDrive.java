@@ -1,4 +1,4 @@
-package org.cid.strategy;
+package org.designPatterns.strategyDP.strategy;
 
 public class NormalDrive implements DriveStrategy{
     @Override
